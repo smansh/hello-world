@@ -2,5 +2,5 @@
 <h2 style="color:blue;"> Sample CI/CD Devops Deploy using Ansible Server  </h2>
 <h3 style="color:green;"> This is The Test of Sample Devops Project-2 </h3>
 
-<h4 style="color:red;"> update code today on  6:50 PM
+<h4 style="color:yellow;"> update code today on  7:02 PM
 
