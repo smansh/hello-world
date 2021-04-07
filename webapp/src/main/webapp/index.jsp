@@ -9,9 +9,9 @@
 <title>Guru current Date</title>
 </head>
 <body>
-  <h1> Hello, Welcome to Smansh Technologies ! </h1>
-<h2 style="color:blue;"> Sample CI/CD Devops Deploy to docker container  </h2>
-<h3 style="color:red;"> This is The Test of Sample Devops Project-3 </h3>
+  <h1> Hello, Welcome to Smansh Technologies !! </h1>
+<h2 style="color:blue;"> Sample CI/CD Devops Deploy using Ansible Server  </h2>
+<h3 style="color:red;"> This is The Test of Sample Devops Project-2 </h3>
 
 
 Updated code Today's on date: <%= (new java.util.Date()).toLocaleString()%>
